@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pgzHdEVdk0bgHV8xRhP0HayNrpFI5tXT3eloOxpEsdf34+TdyVvftwvcUJnIdkyoIZhIeyzLqsT4ju4Spvu5Eg==",
+  "success": true,
+  "projectFilePath": "C:\\Xamarin\\mslearn-xamarin-forms-data-binding\\src\\exercise1\\start\\FlagData\\FlagData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tumelo_Malebo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Tumelo_Malebo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
